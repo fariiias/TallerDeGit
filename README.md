@@ -1,1 +1,2 @@
 Hola!
+[Pusheen](/pusheen.jpg)
